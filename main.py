@@ -15,8 +15,6 @@
 # extracted to. If omitted, the current working directory is used. If
 # specified, the path should already exist.
 
-# Update (by Entwicklerpages): Simple fixes for python3 support. Now works on both versions.
-
 import os
 import stat
 import shutil
